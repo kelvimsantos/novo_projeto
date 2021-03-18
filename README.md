@@ -1,7 +1,8 @@
 # Note_Learn
 requisitos:
 criar uma interface MENU com botões 
-primeira janela terá botão de criar novo item
+a primeira janela terá
+botão criar novo item
 botão pesquisar 
 botão sair
 
