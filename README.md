@@ -1,31 +1,31 @@
 # Note_Learn
-requisitos:
-criar uma interface MENU com botões 
-a primeira janela terá
-botão criar novo item
-botão pesquisar 
-botão sair
+Requisitos:
+criar uma interface MENU com botões ;
+A primeira janela terá:
+-Botão criar novo item.
+-Botão pesquisar .
+-Botão sair.
 
-ao selecionar criar vai abrir a janela de addicionar
-com campos necessarios para preenchimento
- nome, anotação ,exemplo e tags cada um deles terá um botao editar
-no exemplo e anotação :ultilizar barra de rolagem 
-possivel conexão com banco de dados
-terá um botao voltar e o adicionar na lista
+Ao selecionar criar vai abrir a janela de addicionar
+com campos necessarios para preenchimento:
+ Nome, Anotação ,Exemplo e TAGs cada um deles terá um botao editar.
+no exemplo e anotação :ultilizar barras de rolagem .
+Possivel conexão com banco de dados.
+Terá um botão voltar e o adicionar na lista.
 
-só poderá adicionar se todos campos tiverem preenchidos,
-automaticamente as tags sera preenchida automaticamente com letra X se não for preenchido
-ao adicionar ele atualiza a lista 
+Só poderá adicionar se todos campos tiverem preenchidos,
+automaticamente as tags vão ser preenchida automaticamente com letra X, se não for preenchido.
+Ao adicionar ele atualiza a lista.
 
-ao retornar para menu
+Ao retornar para menu:
 
-no botao pesquisar voce pode colocar vazio que ele seleciona toda lista 
-com botao delete voce pode apagar aquele elemento da lista e então ela atualiza
+No botão pesquisar voce pode colocar vazio que ele seleciona toda lista .
+Com botão delete voce pode apagar aquele elemento da lista e então ela atualiza.
 
 
-na janela de pesquisa aberta possibilidade de pesquisa por nome ou por tag 
-assim que selecionado o item  tem a possibilidade de editar
-assim que selecionar o botao editar ele vai abrir a mesma janela do adicionar com as informações  abertas nos campos
+Com janela de pesquisa aberta possibilidade de pesquisar por nome ou por tag.
+Assim que selecionado o item  tem a possibilidade de editar,
+Quando selecionar botão editar ele vai abrir a mesma janela do adicionar, com as informações  abertas nos campos.
 
-caso voce crie dois itens contendo tudo igual vai exibir a menssagem ,já existe esse item na lista
+Caso crie dois itens contendo tudo igual vai exibir a menssagem ,"já existe esse item na lista".
 
