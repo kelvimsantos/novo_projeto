@@ -1,0 +1,25 @@
+ideia principal da aplicação que seja uma ferramenta  para a auto aprendizagem
+tudo que a o usuario estiver aprendendo ela deixa uma nota  com nome dela , exemplo de anotações e tags.
+o que o usuario achar importante de ser lembrado para estudar ao decorrer do tempo ,ele cria uma anotação
+exemplo programação em C#
+
+ o cliente está aprendendo o uso de metodos
+
+	nome |uso de metodos|
+		|EDITAR|
+
+    anotação |sempre que for preciso repetir varias vezes o codigo   |
+             | ele será usado ,isso permite não deixar a quantidade  |
+             | de linhas mais enxutas, o codigo é escrito mais rapido|
+		|EDITAR|
+
+     exemplo:| atacar(int força){HPinimigo -= força;}                |
+
+       TAGS:#|C#| #|metodo|  #|variavel| #|classe|  #|codigo|
+		
+		|EDITAR|
+	
+então a o usuario pode salvar essas anotações para caso se ele estiver aprendendo algo novo
+e precisar consultar, ele tem uma lista de anotações que ele pode pesquisar usando as TAGs
+e pode fazer escrever o que pretende aprender e logo depois pode vir e editar a nota acrescentando informações
+pode conferir o que ja aprendeu e se quiser pode compartilhar seu aprendizado com outras pessoas.
